@@ -1,7 +1,7 @@
 import sys
 if len(sys.argv)==2:
   print("pyhton salary_bonus:",salary)
-  sys,exist(1)
+  sys.exist(1)
 
 else:
   salary=float(sys.argv[1])
